@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/KAZIALEENA/albumApp/static/css/main.d638a078.css",
+    "main.js": "/KAZIALEENA/albumApp/static/js/main.120986f7.js",
+    "static/js/787.0423e42a.chunk.js": "/KAZIALEENA/albumApp/static/js/787.0423e42a.chunk.js",
+    "index.html": "/KAZIALEENA/albumApp/index.html",
+    "main.d638a078.css.map": "/KAZIALEENA/albumApp/static/css/main.d638a078.css.map",
+    "main.120986f7.js.map": "/KAZIALEENA/albumApp/static/js/main.120986f7.js.map",
+    "787.0423e42a.chunk.js.map": "/KAZIALEENA/albumApp/static/js/787.0423e42a.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d638a078.css",
+    "static/js/main.120986f7.js"
+  ]
+}
